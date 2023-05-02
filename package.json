@@ -1,0 +1,28 @@
+{
+  "name": "eslint_test",
+  "version": "1.0.0",
+  "description": "\"# eslint_test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraj458/eslint_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viraj458/eslint_test/issues"
+  },
+  "homepage": "https://github.com/viraj458/eslint_test#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
